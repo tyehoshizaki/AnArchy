@@ -1,0 +1,14 @@
+hyprland
+waybar
+kitty
+wofi
+mako
+stow
+hyprpaper
+hyprlock
+xdg-desktop-portal-hyprland
+polkit-kde-agent
+thunar
+networkmanager
+pipewire
+wireplumber
